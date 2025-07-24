@@ -3,7 +3,7 @@ import fetch from "node-fetch";
 
 const app = express();
 const PORT = process.env.PORT || 3000;
-const SELF_URL = "https://kcazzydata.onrender.com/leaderboard/top14";
+const SELF_URL = "https://degendocdata.onrender.com/leaderboard/top14";
 const API_KEY = "9emj7LErCZydUlTRZpHCuiWdn64atsNF";
 
 // 🧠 Biweekly Start Date (UTC): July 21, 2025
